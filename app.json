@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "reactnative_image_resizeMode",
+    "slug": "reactnative_image_resizeMode"
+  }
+}
