@@ -1,4 +1,6 @@
-# Expo Router Example
+# React-Native-Image-Example
+An application built for the article "Working with React Native's image resizeMode" with expo router
+
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
